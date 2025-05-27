@@ -9,15 +9,50 @@ A Java application for creating professional resumes using iText PDF library.
 - Easy-to-use interface
 - Export to PDF format
 
-## Screenshots
+## How It Works
 
 ### Application Interface
 ![Application Interface](docs/images/interface.png)
 *Main interface of the Resume Builder application*
 
+The application provides a user-friendly interface where you can:
+1. Enter your personal information in the top section
+2. Add your work experience with company details and responsibilities
+3. List your education history
+4. Include your skills and certifications
+5. Add any additional sections as needed
+
 ### Sample Resume Output
 ![Sample Resume](docs/images/sample-resume.png)
 *Example of a generated resume in PDF format*
+
+The generated PDF resume features:
+1. Professional formatting with consistent spacing and typography
+2. Clear section organization (Personal Info, Experience, Education, Skills)
+3. Proper alignment and hierarchy of information
+4. Clean and modern design suitable for professional use
+
+## Step-by-Step Guide
+
+1. **Launch the Application**
+   - Run the application using `make run`
+   - The main interface will appear with input fields for your information
+
+2. **Enter Your Information**
+   - Fill in your personal details (name, contact info, etc.)
+   - Add your work experience chronologically
+   - Include your educational background
+   - List your relevant skills and certifications
+
+3. **Generate Resume**
+   - Click the "Generate PDF" button
+   - Choose where to save your resume
+   - The application will create a professionally formatted PDF
+
+4. **Review and Edit**
+   - Open the generated PDF to review
+   - Make any necessary adjustments in the application
+   - Regenerate the PDF as needed
 
 ## Prerequisites
 
