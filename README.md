@@ -11,26 +11,98 @@ A Java application for creating professional resumes using iText PDF library.
 
 ## How It Works
 
-### Application Interface
-![Application Interface](docs/images/interface.png)
-*Main interface of the Resume Builder application*
+### 1. Main Interface
+![Main Interface](docs/images/1-main-interface.png)
+*The main window of the Resume Builder application*
 
-The application provides a user-friendly interface where you can:
-1. Enter your personal information in the top section
-2. Add your work experience with company details and responsibilities
-3. List your education history
-4. Include your skills and certifications
-5. Add any additional sections as needed
+The application starts with a clean, organized interface where you can:
+- Navigate through different sections using the menu
+- See a preview of your resume as you build it
+- Access all the tools needed to create your resume
 
-### Sample Resume Output
-![Sample Resume](docs/images/sample-resume.png)
-*Example of a generated resume in PDF format*
+### 2. Personal Information
+![Personal Information](docs/images/2-personal-info.png)
+*Enter your personal details*
 
-The generated PDF resume features:
-1. Professional formatting with consistent spacing and typography
-2. Clear section organization (Personal Info, Experience, Education, Skills)
-3. Proper alignment and hierarchy of information
-4. Clean and modern design suitable for professional use
+In this section, you can add:
+- Your full name
+- Contact information (email, phone)
+- Professional summary
+- Social media links
+- Location information
+
+### 3. Work Experience
+![Work Experience](docs/images/3-experience.png)
+*Add your professional experience*
+
+Add your work history with:
+- Company names and positions
+- Employment dates
+- Key responsibilities and achievements
+- Projects and contributions
+
+### 4. Education
+![Education](docs/images/4-education.png)
+*List your educational background*
+
+Include your:
+- Degrees and certifications
+- Educational institutions
+- Graduation dates
+- Academic achievements
+- Relevant coursework
+
+### 5. Skills
+![Skills](docs/images/5-skills.png)
+*Highlight your professional skills*
+
+Add your:
+- Technical skills
+- Soft skills
+- Languages
+- Tools and technologies
+- Professional certifications
+
+### 6. Additional Information
+![Additional Information](docs/images/6-additional-info.png)
+*Include any extra relevant information*
+
+This section allows you to add:
+- Awards and achievements
+- Volunteer work
+- Publications
+- Professional memberships
+- Other relevant information
+
+### 7. Preview
+![Preview](docs/images/7-preview.png)
+*Preview your resume before saving*
+
+Review your resume to ensure:
+- All information is accurate
+- Formatting is consistent
+- Sections are properly organized
+- No typos or errors
+
+### 8. Save Dialog
+![Save Dialog](docs/images/8-save-dialog.png)
+*Choose where to save your resume*
+
+Select:
+- Save location
+- File name
+- PDF format options
+
+### 9. Final Resume
+![Final Resume](docs/images/9-final-resume.png)
+*Your professionally formatted PDF resume*
+
+The final PDF features:
+- Professional formatting
+- Consistent typography
+- Clear section organization
+- Proper spacing and alignment
+- Print-ready quality
 
 ## Step-by-Step Guide
 
