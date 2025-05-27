@@ -2,6 +2,23 @@
 
 A Java application for creating professional resumes using iText PDF library.
 
+## Features
+
+- Create professional PDF resumes
+- Customizable templates
+- Easy-to-use interface
+- Export to PDF format
+
+## Screenshots
+
+### Application Interface
+![Application Interface](docs/images/interface.png)
+*Main interface of the Resume Builder application*
+
+### Sample Resume Output
+![Sample Resume](docs/images/sample-resume.png)
+*Example of a generated resume in PDF format*
+
 ## Prerequisites
 
 - Java Development Kit (JDK)
@@ -62,4 +79,5 @@ make rebuild
 
 - `src/` - Source code directory
 - `lib/` - Library dependencies (place iText PDF JAR here)
-- `Makefile` - Build automation 
+- `Makefile` - Build automation
+- `docs/images/` - Documentation images and screenshots 
